@@ -1,3 +1,9 @@
+# Made By Arrow-Dev | Ali Hany
+# visit us https://arrow-dev.rf.gd/bio
+# Created in 2/17/2024 | Last Update 2/7/2024
+
+
+
 from PyQt6.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PyQt6.QtCore import QDate,Qt
 from PyQt6.QtGui import QStandardItemModel, QStandardItem
@@ -7,6 +13,7 @@ import os
 import sqlite3
 
 os.system("start https://arrow-dev.rf.gd/bio")
+os.system("start https://youtu.be/yGKSgWXjQBQ?si=Zezo7Ue8GwxSzWzG")
 # Connect DataBase
 sql = sqlite3.connect("Data/data.db")
 # Cursor To Execute Commands
