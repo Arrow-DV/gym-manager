@@ -1,5 +1,5 @@
 # Gym Management
-![image](https://github.com/Arrow-DV/gym-manager/assets/128916762/34a88a2c-8212-4351-9f99-75c67ef45287)
+![image](Data/image.png)
 
 ## Getting Start
 ### Install Library's
@@ -13,5 +13,5 @@ cd Gym Management
 ```
 python core.py
 ```
-# Made By Arrow-Dev
+# Made By <a href="https://arrow-dev.rf.gd/bio" target="_blank">Arrow-Dev</a>
 ![arrow](https://github.com/Arrow-DV/gym-manager/assets/128916762/8c4377f4-9051-4869-ae70-1df36761b07b)
